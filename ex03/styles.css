@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    margin: 30px;
+}
+
+#ft_list {
+    border: 1px solid #aaa;
+    padding: 10px;
+    min-height: 100px;
+    width: 300px;
+}
+
+#ft_list div {
+    background: #f0f0f0;
+    margin-bottom: 5px;
+    padding: 8px;
+    cursor: pointer;
+}
+
+#new-btn {
+    margin-bottom: 10px;
+}
